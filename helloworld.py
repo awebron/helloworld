@@ -1,7 +1,8 @@
 """
 helloworld.py
 
-A program to say hello
+Begin by executing this script from the command line by typing
+    `$ python helloworld.py`
 """
 
 if __name__ == '__main__':
