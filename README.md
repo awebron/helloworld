@@ -1,4 +1,4 @@
-This is a simple "Hello World!" program written in Python
+This is a simple "Hello World!" program written in Python for
 Course: OLRN1507 (W20-Intermediate Python Programming)
 Date: January 27, 2019
 
